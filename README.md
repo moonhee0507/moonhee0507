@@ -18,7 +18,7 @@ Talk to me about:
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **Java and Python**. -->
 ## Hello World!! 🤔
-- 💬 Ask me about anything an everything.
+- 💬 Ask me about anything and everything.
 - 📫 Read my blogs: [sjmh0507 velog]([https://medium.com/harsh-kumar-khatri](https://velog.io/@sjmh0507)).
 - 🎯 Portfolio site: coming soon...
 
