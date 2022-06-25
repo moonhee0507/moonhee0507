@@ -5,7 +5,10 @@ I am Moon Hee 😃. I am currently learning the front-end skills. I love to expl
 
 <!-- SNS part -->
 <div align="left">
-  <a href="facebook.com/moon0507hee" target="_blank">
+  <a href="https://velog.io/@sjmh0507" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Velog&logo=Velog&label=&color=20C997&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Velog logo" />
+  </a>
+  <a href="https://www.facebook.com/moon0507hee" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
   <a href="https://www.youtube.com/channel/UCcABz4NaQQcLY2KxDNqr9-g/videos" target="_blank">
