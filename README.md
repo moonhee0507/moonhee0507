@@ -1,7 +1,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50"></h2>
 
 <!-- introduction part -->
-I am Moon Hee 😃. I am currently learning the front-end skills. I love to explore and learn about new things.
+
 
 <!-- SNS part -->
 <div align="left">
@@ -11,14 +11,8 @@ I am Moon Hee 😃. I am currently learning the front-end skills. I love to expl
   <a href="https://www.facebook.com/moon0507hee" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
   </a>
-  <a href="https://www.youtube.com/channel/UCcABz4NaQQcLY2KxDNqr9-g/videos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/hee-moon-b395a3240/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/moon0507hee" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
