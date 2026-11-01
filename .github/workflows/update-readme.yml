@@ -1,0 +1,39 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # every day 00:00 UTC (09:00 KST)
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - scripts/update-readme.mjs
+      - .github/workflows/update-readme.yml
+
+jobs:
+  update:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Regenerate stack block
+        run: node scripts/update-readme.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: update README stack"
+          git push

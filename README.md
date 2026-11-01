@@ -1,64 +1,16 @@
-<h2 align="left">Hi 👋!  I'm Moon Hee</h2>
+<a href="https://tenor.com/view/cat-cute-glasses-funny-kawai-gif-18233428755452527137"><img src="assets/cat.gif" width="240" alt="Cat with glasses" title="GIF via Tenor"></a>
 
-###
+<!-- STACK:START -->
+<table>
+<tr><td colspan="2" align="right"><sub>Updated 2026-11-01 12:27 UTC</sub></td></tr>
+<tr><td><b>Languages</b></td><td><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/typescript/typescript-original.svg" width="20" height="20" align="top" alt="">&nbsp;TypeScript&nbsp;99%</td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/react/react-original.svg" width="20" height="20" align="top" alt="">&nbsp;React &nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/tailwindcss/tailwindcss-original.svg" width="20" height="20" align="top" alt="">&nbsp;Tailwind&nbsp;CSS &nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nextjs/nextjs-original.svg" width="20" height="20" align="top" alt="">&nbsp;Next.js &nbsp; TanStack&nbsp;Query &nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/vitejs/vitejs-original.svg" width="20" height="20" align="top" alt="">&nbsp;Vite &nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mobx/mobx-original.svg" width="20" height="20" align="top" alt="">&nbsp;MobX</td></tr>
+<tr><td><b>Mobile</b></td><td><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/reactnative/reactnative-original.svg" width="20" height="20" align="top" alt="">&nbsp;React&nbsp;Native</td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/nestjs/nestjs-original.svg" width="20" height="20" align="top" alt="">&nbsp;NestJS &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/express.svg"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/express/express-original.svg" width="20" height="20" align="top" alt=""></picture>&nbsp;Express &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="icons/dark/prisma.svg"><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/prisma/prisma-original.svg" width="20" height="20" align="top" alt=""></picture>&nbsp;Prisma</td></tr>
+<tr><td><b>Testing</b></td><td><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/jest/jest-plain.svg" width="20" height="20" align="top" alt="">&nbsp;Jest &nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/vitest/vitest-original.svg" width="20" height="20" align="top" alt="">&nbsp;Vitest &nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/pytest/pytest-original.svg" width="20" height="20" align="top" alt="">&nbsp;pytest</td></tr>
+<tr><td><b>Database</b></td><td><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/postgresql/postgresql-original.svg" width="20" height="20" align="top" alt="">&nbsp;PostgreSQL &nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/redis/redis-original.svg" width="20" height="20" align="top" alt="">&nbsp;Redis &nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/mongodb/mongodb-original.svg" width="20" height="20" align="top" alt="">&nbsp;MongoDB</td></tr>
+<tr><td><b>Cloud / DevOps</b></td><td><img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/azure/azure-original.svg" width="20" height="20" align="top" alt="">&nbsp;Azure &nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/firebase/firebase-original.svg" width="20" height="20" align="top" alt="">&nbsp;Firebase &nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/githubactions/githubactions-original.svg" width="20" height="20" align="top" alt="">&nbsp;GitHub&nbsp;Actions &nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.18.0/icons/docker/docker-original.svg" width="20" height="20" align="top" alt="">&nbsp;Docker</td></tr>
+</table>
+<!-- STACK:END -->
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moonhee0507&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moonhee0507&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://github.com/user-attachments/assets/51489847-6d86-44d1-ab3d-0c6bfb0806d1"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="eehnoom@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/hee-moon/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/moon0507hee" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/moonhee0507/moonhee0507/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/moonhee0507/count.svg?"  />
-</div>
-
-###
+[LinkedIn](https://www.linkedin.com/in/hee-moon/) · [Blog](https://velog.io/@sjmh0507/posts)
